@@ -1,3 +1,12 @@
+This is my submission of the Vehicle Detection and Tracking project of Udacity "Self-Driving Car Engineer" Nanodegree program.
+
+My implementation of the project is in file CarND-Vehicle-Detection-Project.ipynb. 
+
+Write up of my implementation is in file writeup.ipynb.
+
+Film showing my results: https://youtu.be/XVBLraWOsxI
+
+
 # Vehicle Detection
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
